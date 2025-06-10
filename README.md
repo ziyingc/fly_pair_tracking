@@ -4,7 +4,7 @@ This is a collection of python module files and jupyter notebook for fly trackin
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+how it related to the papaer
 
 ## Getting Started
 
