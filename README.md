@@ -18,6 +18,3 @@ how it related to the papaer
 * Step-by-step bullets
 
 
-## Authors
-
-Ziying Chen
