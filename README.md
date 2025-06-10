@@ -14,7 +14,7 @@ how it related to the papaer
 
 ### Usage step by step
 
-* How to run the program
-* Step-by-step bullets
+* 1
+* 2
 
 
