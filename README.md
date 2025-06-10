@@ -20,6 +20,4 @@ how it related to the papaer
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Ziying Chen
+Ziying Chen
